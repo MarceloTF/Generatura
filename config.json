@@ -1,0 +1,38 @@
+{
+    "nome": {
+        "posicao": [505, 33],
+        "caminho_fonte": "fontes/Montserrat-Bold.ttf",
+        "tamanho_fonte": 26,
+        "cor": "52,159,219",
+        "formatar": "{texto}",
+        "largura_maxima": 30,
+        "alinhamento": "esquerda"
+    },
+    "cargo": {
+        "posicao": [507, 65],
+        "caminho_fonte": "fontes/Montserrat-Medium.ttf",
+        "tamanho_fonte": 14,
+        "cor": "255,255,255",
+        "formatar": "{texto}",
+        "largura_maxima": 40,
+        "alinhamento": "esquerda"
+    },
+    "email": {
+        "posicao": [527, 86],
+        "caminho_fonte": "fontes/Montserrat-Medium.ttf",
+        "tamanho_fonte": 13,
+        "cor": "255,255,255",
+        "formatar": "{texto}",
+        "largura_maxima": 50,
+        "alinhamento": "esquerda"
+    },
+    "telefone": {
+        "posicao": [527, 108],
+        "caminho_fonte": "fontes/Montserrat-Medium.ttf",
+        "tamanho_fonte": 13,
+        "cor": "255,255,255",
+        "formatar": "{texto}",
+        "largura_maxima": 30,
+        "alinhamento": "esquerda"
+    }
+}
