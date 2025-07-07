@@ -1,6 +1,6 @@
 # Generatura
 
-Um **gerador avançado de assinaturas de e-mail** a partir de um template de imagem, dados CSV de funcionários e configuração JSON de layout, gerando arquivos `.webp` prontos para uso em assinaturas padronizadas da empresa.
+Um **gerador de assinaturas de e-mail** a partir de um template de imagem, dados CSV de funcionários e configuração JSON de layout, gerando arquivos `.webp` prontos para uso em assinaturas padronizadas da empresa.
 
 ## Recursos
 
